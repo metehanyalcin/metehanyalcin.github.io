@@ -71,6 +71,8 @@ This is another type of creature. It has a lower speed but a higher damage and h
 
 **3. Class Diagram and Relationships Among Classes**
 
+(class_diagram.png "class diagram")
+
 **The game** class has an aggregation relationship with the **Hero** and **Creature** classes. 
 
 **Hero** class has an aggregation relationship with **Base** and **Weapon** classes with a likewise reasoning.
