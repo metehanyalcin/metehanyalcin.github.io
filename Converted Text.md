@@ -71,7 +71,7 @@ This is another type of creature. It has a lower speed but a higher damage and h
 
 **3. Class Diagram and Relationships Among Classes**
 
-![za!](/assets/images/class_diagram.png "class diagram")
+![za!](https://github.com/metehanyalcin/metehanyalcin.github.io/blob/main/class_diagram.png "class diagram")
 
 **The game** class has an aggregation relationship with the **Hero** and **Creature** classes. 
 
